@@ -1,161 +1,129 @@
 {
   "version": 1,
-  "base_track": "1991",
+  "base_track": "トレモロ",
   "base_artist": "米津玄師",
-  "createdAt": "2026-03-30T21:08:17.065526Z",
+  "createdAt": "2026-04-05T11:42:19.725306Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "You Took All The Rambling Out Of Me - Remastered 12/1991",
-      "artist": "Jerry Reed",
+      "title": "トレモロ",
+      "artist": "RADWIMPS",
       "has_synced": true,
-      "path": "select/01_You_Took_All_The_Rambling_Out_Of_Me_-_Remastered_12_1991_Jerry_Reed.lrc"
+      "path": "select/01_トレモロ_RADWIMPS.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Sound and Vision (David Richards 1991 Remix)",
-      "artist": "David Bowie",
-      "has_synced": false,
-      "path": "select/02_Sound_and_Vision_(David_Richards_1991_Remix)_David_Bowie.txt"
+      "title": "トレモロ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_トレモロ_RADWIMPS.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "Sound + Vision (David Richards Remix 1991)",
-      "artist": "David Bowie",
+      "title": "トレモロ",
+      "artist": "マヤ(CV:MAKO)",
       "has_synced": false,
-      "path": "select/03_Sound_+_Vision_(David_Richards_Remix_1991)_David_Bowie.txt"
+      "path": "select/03_トレモロ_マヤ(CV_MAKO).txt"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "Forever Autumn - BBC Radio One Acoustic Session / 1991",
-      "artist": "The Moody Blues",
+      "title": "トレモロ",
+      "artist": "マヤ (MAKO)",
       "has_synced": false,
-      "path": "select/04_Forever_Autumn_-_BBC_Radio_One_Acoustic_Session___1991_The_Moody_Blues.txt"
+      "path": "select/04_トレモロ_マヤ_(MAKO).txt"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "Dumb - 1991 Radio Appearance",
-      "artist": "Nirvana",
-      "has_synced": true,
-      "path": "select/05_Dumb_-_1991_Radio_Appearance_Nirvana.lrc"
+      "title": "トレモロ",
+      "artist": "Clammbon",
+      "has_synced": false,
+      "path": "select/05_トレモロ_Clammbon.txt"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "Endless, Nameless - 1991 Radio Appearance",
-      "artist": "Nirvana",
+      "title": "トレモロ",
+      "artist": "ねごと",
       "has_synced": true,
-      "path": "select/06_Endless,_Nameless_-_1991_Radio_Appearance_Nirvana.lrc"
+      "path": "select/06_トレモロ_ねごと.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "All I Can Do Is Write About It (Acoustic Version) (1991 Box Set)",
-      "artist": "Lynyrd Skynyrd",
-      "has_synced": false,
-      "path": "select/07_All_I_Can_Do_Is_Write_About_It_(Acoustic_Version)_(1991_Box_Set)_Lynyrd_Skynyrd.txt"
+      "title": "トレモロ (Ver.2.0)",
+      "artist": "Plastic Tree",
+      "has_synced": true,
+      "path": "select/07_トレモロ_(Ver.2.0)_Plastic_Tree.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "Get Happy (1991 Remastered)",
-      "artist": "Benny Goodman and His Orchestra",
+      "title": "トレモロ (Ver.2.0)",
+      "artist": "Plastic Tree",
       "has_synced": false,
-      "path": "select/08_Get_Happy_(1991_Remastered)_Benny_Goodman_and_His_Orchestra.txt"
+      "path": "select/08_トレモロ_(Ver.2.0)_Plastic_Tree.txt"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "1991",
-      "artist": "Azealia Banks",
-      "has_synced": true,
-      "path": "select/09_1991_Azealia_Banks.lrc"
+      "title": "トレモロ(Ver.2.0) - \"Premium Best\" Remaster",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/09_トレモロ(Ver.2.0)_-__Premium_Best__Remaster_Plastic_Tree.txt"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "Dreams - Live At Cork Rock, Ireland / 1991",
-      "artist": "The Cranberries",
-      "has_synced": false,
-      "path": "select/10_Dreams_-_Live_At_Cork_Rock,_Ireland___1991_The_Cranberries.txt"
+      "title": "Tremolo (トレモロ)",
+      "artist": "ねごと",
+      "has_synced": true,
+      "path": "select/10_Tremolo_(トレモロ)_ねごと.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "Dreams (Live at Cork Rock, June 1, 1991)",
-      "artist": "The Cranberries",
+      "title": "トレモロ",
+      "artist": "ねごと",
       "has_synced": false,
-      "path": "select/11_Dreams_(Live_at_Cork_Rock,_June_1,_1991)_The_Cranberries.txt"
+      "path": "select/11_トレモロ_ねごと.txt"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "Dreams (RTÉ Radio 1991)",
-      "artist": "The Cranberries",
+      "title": "トレモロ",
+      "artist": "negoto",
       "has_synced": true,
-      "path": "select/12_Dreams_(RTÉ_Radio_1991)_The_Cranberries.lrc"
+      "path": "select/12_トレモロ_negoto.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "Put Me Down - Live At Cork Rock, Ireland / 1991",
-      "artist": "The Cranberries",
+      "title": "トレモロ（Ver.2.0）",
+      "artist": "Plastic Tree",
       "has_synced": false,
-      "path": "select/13_Put_Me_Down_-_Live_At_Cork_Rock,_Ireland___1991_The_Cranberries.txt"
-    },
-    {
-      "id": "lrclib_14",
-      "source": "lrclib",
-      "title": "Put Me Down (Live at Cork Rock, June 1, 1991)",
-      "artist": "The Cranberries",
-      "has_synced": false,
-      "path": "select/14_Put_Me_Down_(Live_at_Cork_Rock,_June_1,_1991)_The_Cranberries.txt"
-    },
-    {
-      "id": "lrclib_15",
-      "source": "lrclib",
-      "title": "Uncertain - Live At Cork Rock, Ireland / 1991",
-      "artist": "The Cranberries",
-      "has_synced": false,
-      "path": "select/15_Uncertain_-_Live_At_Cork_Rock,_Ireland___1991_The_Cranberries.txt"
-    },
-    {
-      "id": "lrclib_16",
-      "source": "lrclib",
-      "title": "Uncertain (Live at Cork Rock, June 1, 1991)",
-      "artist": "The Cranberries",
-      "has_synced": false,
-      "path": "select/16_Uncertain_(Live_at_Cork_Rock,_June_1,_1991)_The_Cranberries.txt"
-    },
-    {
-      "id": "lrclib_17",
-      "source": "lrclib",
-      "title": "(They Long To Be) Close To You (1991 Remix)",
-      "artist": "Carpenters",
-      "has_synced": true,
-      "path": "select/17_(They_Long_To_Be)_Close_To_You_(1991_Remix)_Carpenters.lrc"
+      "path": "select/13_トレモロ(Ver.2.0)_Plastic_Tree.txt"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "1991",
+      "title": "トレモロ",
       "artist": "米津玄師",
       "has_synced": false,
-      "path": "select/pl_01_1991_米津玄師.txt"
+      "path": "select/pl_01_トレモロ_米津玄師.txt"
     },
     {
       "id": "localdb_1",
       "source": "localdb",
-      "title": "1991",
+      "title": "トレモロ",
       "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/localdb_01_1991_米津玄師.txt",
-      "repo_name": "1cnndBdzCAk"
+      "has_synced": true,
+      "path": "select/localdb_01_トレモロ_米津玄師.lrc",
+      "repo_name": "pwPpqgn-3lw"
     }
   ]
 }
